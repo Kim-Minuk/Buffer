@@ -1,0 +1,4 @@
+git config --global user.name "Minuk"
+git config --global user.name kimminuk0125@gmail.com
+
+ctrl + shift + T
